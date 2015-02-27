@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">悬浮按钮</string>
+    <string name="nimei">click</string>
+    
+    
+
+    <string-array name="planets">
+        <item>漩涡鸣人</item>
+        <item>波风水门</item>
+        <item>漩涡玖辛奈</item>
+        <item>宇智波带土</item>
+        <item>卡卡西</item>
+        <item>我爱罗</item>
+        <item>佐助</item>
+        <item>宇智波鼬</item>
+        <item>小樱、</item>
+        <item>佐井、</item>
+        <item>犬冢牙、</item>
+        <item>小李</item>
+        <item>小东</item>
+        <item>小西</item>
+        <item>小南</item>
+        <item>小北</item>
+        <item>cjj1</item>
+        <item>cjj2</item>
+        <item>cjj3</item>
+        <item>cjj4</item>
+        <item>cjj5</item>
+        <item>cjj6</item>
+        <item>cjj7</item>
+        <item>cjj8</item>
+    </string-array>
+</resources>
